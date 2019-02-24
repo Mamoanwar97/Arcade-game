@@ -62,8 +62,8 @@ class Player{
       ctx.drawImage(Resources.get(this.sprite), this.x, this.y);
   }
 
-  handleInput(keyPress) {
-      switch (keyPress) {
+  handleInput(pressedKey) {
+      switch (pressedKey) {
           case 'left':
               this.x -= this.speed + 50;
               break;
