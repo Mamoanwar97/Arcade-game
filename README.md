@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Instructions](#instructions)
+- [How To Play](#How To Play)
 - [Contributing](#contributing)
 
 ## Instructions
@@ -14,6 +15,11 @@ Make sure the functions you write are **object-oriented** - either class functio
 Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+
+## How To Play
+
+1. Use the keys to move around.
+2. Try to avoid the buggies to reach the other side.
 
 ## Contributing
 
