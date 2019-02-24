@@ -16,7 +16,7 @@ Your **README.md** file should be updated with instructions on both how to 1. Ru
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-## How To Play
+## HowToPlay
 
 1. Use the keys to move around.
 2. Try to avoid the buggies to reach the other side.
