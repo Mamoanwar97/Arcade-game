@@ -51,10 +51,10 @@ class Player{
           this.x = 0;
       }
 
-      if (this.y < 0) {
+      if (this.y < 0) { //Win condition
+        alert('Congratulations! You have done it :D');
         this.x = 200;
         this.y = 380;
-
       }
   }
 
